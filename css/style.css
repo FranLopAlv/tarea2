@@ -1,0 +1,12 @@
+li{
+	display: inline;
+	padding: 20px;
+}
+html{
+	background-color: black;
+}
+body{
+	margin: 20px;
+	color: #ccc;
+	height: 700px;
+}
